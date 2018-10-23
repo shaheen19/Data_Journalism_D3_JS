@@ -536,9 +536,9 @@ function tickCount() {
 
 if (width <= 500) {
 
-xAxis.ticks(5);
+xAxis.ticks(6);
 
-yAxis.ticks(5);
+yAxis.ticks(6);
 
 }
 
